@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name          MassiveFap
-// @description	  A complete ImageFap.com gallery conversion script featuring customization options and multiple viewing modes.
-// @namespace	    MassiveFap
-// @updateURL	    https://raw.githubusercontent.com/massivefap/massivefap/userscript/massivefap.user.js
-// @downloadURL	  https://raw.githubusercontent.com/massivefap/massivefap/userscript/massivefap.user.js
+// @description   A complete ImageFap.com gallery conversion script featuring customization options and multiple viewing modes.
+// @namespace     MassiveFap
+// @updateURL     https://raw.githubusercontent.com/massivefap/massivefap/master/userscript/massivefap.user.js
+// @downloadURL   https://raw.githubusercontent.com/massivefap/massivefap/master/userscript/massivefap.user.js
 // @include       https://*imagefap.com/*
 // @include       http://*imagefap.com/*
 // @version       1.5.1.3
